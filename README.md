@@ -13,13 +13,15 @@
 
 ## فهرست مطالب
 - [ریاضیات](#ریاضیات)
-- [ساختمان داده و طراحی الگوریتم](#ساختمان داده و طراحی الگوریتم)
+- [ساختمان داده و طراحی الگوریتم](#ساختمان-داده-و-طراحی-الگوریتم)
 
 
 ## ریاضیات 
 [Plot What Functions you Want!](https://www.desmos.com/calculator)
+
 [Seeing Theory : A Visual Introduction To Probability And Statistic](https://seeing-theory.brown.edu/)
+
 [Learn Graph Theory Interactively](https://d3gt.com/)
 
 ## ساختمان داده و طراحی الگوریتم
-[visualising data structures and algorithms through animation](https://visualgo.net/en)
+[Visualising Data Structures And Algorithms Through Animation](https://visualgo.net/en)
